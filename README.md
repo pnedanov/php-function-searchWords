@@ -6,4 +6,4 @@ This function searches for words in Russian and English and counts their number.
     2. Launch console.
     3. Write "php func-searchWords.php"
 
-##### Create by Roman Nedanov
+#### Create by Roman Nedanov
